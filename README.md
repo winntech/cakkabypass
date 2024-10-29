@@ -1,7 +1,6 @@
 # V2Ray Worker
  Total solution for v2ray configs over Cloudflare's worker
-
-[نسخه فارسی(https://github.com/winntech/cakkabypass)
+ (https://github.com/winntech/cakkabypass)
 
 ## How to use
 
